@@ -1,2 +1,2 @@
 # hello-world
-The first roposityr @ jurg-end. Hello World!
+The first ropository @ jurg-end. Hello World!
